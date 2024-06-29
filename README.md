@@ -1,5 +1,5 @@
-![Snake animation](https://github.com/Kruta/Kruta/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kruta&repo=Kruta&theme=react)](https://github.com/Kruta/Kruta)
+![Snake animation](https://github.com/PKrutaa/Kruta/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=PKruta&repo=Kruta&theme=react)](https://github.com/PKrutaa/Kruta)
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Kruta!;" />
