@@ -34,3 +34,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PKrutaa/PKrutaa/main/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/PKrutaa/PKrutaa/main/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
