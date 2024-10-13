@@ -11,19 +11,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Verifica o repositório
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha e atualiza o arquivo README
       - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
           github_user_name: PKrutaa  # Substitua pelo seu nome de usuário
           svg_out_path: dist/github-contribution-grid-snake.svg
-          reset: true  # Reset a cobra após comer todos os commits
 
-      # Envia a animação gerada para o branch `output`
       - name: Push generated snake
         uses: ad-m/github-push-action@v0.6.0
         with:
