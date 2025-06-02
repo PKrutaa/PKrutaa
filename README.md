@@ -5,7 +5,7 @@
 <div align="center">
   - 🔭 I'm studying Data Science and AI at UFPB
   <br>
-  - 🌱 Cursando Ciência de Dados e Inteligência Artificil na UFPB
+  - 🌱 Cursando Ciência de Dados e Inteligência Artificial na UFPB
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
